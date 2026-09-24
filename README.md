@@ -71,6 +71,13 @@ Estudante de **Engenharia de Software** (3º período) em busca da primeira opor
 
 ---
 
+> [!NOTE]
+> **A note about the projects in this profile for upcoming visitors:**
+>
+> All current projects are **educational in nature** — they were built to consolidate concepts of programming, databases, architecture and tooling, and were **not** designed to solve real pain points for a specific audience.
+>
+> Going forward, my focus will shift to building projects with **real purpose**: solutions that help people with concrete problems — including the ones I face myself.
+
 <!-- ─── PROJECTS ─── -->
 ## `> projects`
 
