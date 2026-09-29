@@ -28,9 +28,9 @@ class Wesley:
         self.name        = "Wesley F."
         self.role        = "Software Engineering Student"
         self.semester    = "3rd"
-        self.location    = "Brazil 🇧🇷"
+        self.location    = "Brazil"
         self.focus       = ["Learning", "Building", "Improving"]
-        self.current     = "LibraTrack 📦"
+        self.current     = "LocalShelf"
 
     def say_hi(self):
         print("Let's build something.")
@@ -119,7 +119,7 @@ Estudante de **Engenharia de Software** (3º período) em busca da primeira opor
 
 <td width="50%" valign="top">
 
-<h3>📚 LibraTrack <sub><code>em desenvolvimento</code></sub></h3>
+<h3>📚 LibraTrack</h3>
 
 <p>Sistema de gerenciamento de biblioteca desenvolvido para consolidar conceitos de Banco de Dados Relacionais com múltiplas tabelas e relacionamentos, stack LAMP e containerização com Docker.</p>
 
