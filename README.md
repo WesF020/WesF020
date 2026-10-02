@@ -162,7 +162,7 @@ $ cat ~/goals.txt
 [✓] Desenvolver projeto desktop em Java com JavaFX (SaveWise)
 [✓] Iniciar projeto com integração de IA (GreenRoute)
 
-[→] Finalizar o LibraTrack (stack LAMP + Docker)
+[✓] Finalizar o LibraTrack (stack LAMP + Docker)
 [→] Aprofundar em Programação Orientada a Objetos e padrões de projeto
 [→] Construir um projeto fullstack completo (backend + frontend)
 [→] Contribuir para um projeto open source
