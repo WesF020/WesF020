@@ -6,16 +6,32 @@
 <!-- ─── BANNER ─── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=WESLEY%20F.&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:2d333b,60:8b949e,100:ffffff&height=200&section=header&text=WESLEY%20F.&fontSize=50&fontColor=C9D1D9&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%" />
 
 </div>
 
 <!-- ─── TYPING SVG ─── -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=System+initializing...;Building+the+future%2C+one+commit+at+a+time.;%3E+whoami+%E2%86%92+WesF020.dev;%3E+role+%E2%86%92+Software+Engineering+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=600&lines=System+initializing...;Building+the+future%2C+one+commit+at+a+time.;%3E+whoami+%E2%86%92+WesF020.dev;%3E+role+%E2%86%92+Software+Engineering+Student" alt="Typing SVG" />
 
 </div>
+
+---
+
+<!-- ─── CONTACT ─── -->
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/wesley-f-100b0a381/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:wesleyferreirasoares22509@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
 
 ---
 
@@ -72,7 +88,7 @@ Estudante de **Engenharia de Software** (3º período) em busca da primeira opor
 ---
 
 > [!NOTE]
-> **A note about the projects in this profile for upcoming visitors:**
+> **A note about the projects in this profile:**
 >
 > All current projects are **educational in nature** — they were built to consolidate concepts of programming, databases, architecture and tooling, and were **not** designed to solve real pain points for a specific audience.
 >
@@ -205,7 +221,6 @@ Step by step.
 </div>
 
 ---
----
 
 <!-- ─── CONTRIBUTION GRAPH ─── -->
 
@@ -220,11 +235,7 @@ Step by step.
 </div>
 
 <!-- ─── FOOTER ─── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=footer&text=Building%20the%20future%2C%20one%20commit%20at%20a%20time.&fontSize=16&fontColor=58a6ff&fontAlignY=70" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:8b949e,100:000000&height=120&section=footer&text=Building%20the%20future%2C%20one%20commit%20at%20a%20time.&fontSize=16&fontColor=0d1117&fontAlignY=70" width="100%" />
 
 <div align="center">
 <sub>⭐ From <a href="https://github.com/WesF020">WesF020</a> — Obrigado pela visita.</sub>
