@@ -46,7 +46,7 @@ class Wesley:
         self.semester    = "3rd"
         self.location    = "Brazil"
         self.focus       = ["Learning", "Building", "Improving"]
-        self.current     = "Studing"
+        self.current     = "Studying"
 
     def say_hi(self):
         print("Let's build something.")
